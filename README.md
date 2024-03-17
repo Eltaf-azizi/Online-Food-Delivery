@@ -1,1 +1,1 @@
-<h1>Food Delivery</h1>
+<h1 align="center">Food Delivery</h1>
