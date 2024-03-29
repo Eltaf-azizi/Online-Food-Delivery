@@ -11,7 +11,7 @@ The development of this website was significantly inspired and guided by a compr
 
 ### Key Resource:
 
-- **YouTube Tutorial**: "[Name of the Tutorial](link to the video/tutorial)" by [Author or Channel Name].
+- **Online Food Delivery**: "[Online Food Delivery website using HTML, CSS, JavaScript](link to the video/tutorial)" by [Author or Channel Name].
 ## Usages
 
  - Browse through the available restaurants or search for your favorite one.
