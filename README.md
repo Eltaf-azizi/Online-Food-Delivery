@@ -11,7 +11,7 @@ The development of this website was significantly inspired and guided by a compr
 
 ### Key Resource:
 
-- **YouTube Tutorial**: "[Name of the Tutorial](link to the video/tutorial)" by [Author or Channel Name]. This tutorial covered [briefly describe what the tutorial covers, such as front-end development, working with APIs, implementing a shopping cart, etc.].
+- **YouTube Tutorial**: "[Name of the Tutorial](link to the video/tutorial)" by [Author or Channel Name].
 ## Usages
 
  - Browse through the available restaurants or search for your favorite one.
