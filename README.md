@@ -10,8 +10,9 @@
 The development of this website was significantly inspired and guided by a comprehensive tutorial I followed on YouTube. The tutorial offered deep insights into web development practices and helped me understand the intricacies of creating a functional and user-friendly online food delivery platform.
 
 ### Key Resource:
-
-- **Online Food Delivery**: "[Online Food Delivery website using HTML CSS and JavaScript]Part1(https://www.youtube.com/watch?v=GiWJQOin5dk), Part2(https://www.youtube.com/watch?v=USmwEDVM2Qc)" by [Author or Channel Name].
+**Online Food Delivery**: "[Online Food Delivery website using HTML CSS and JavaScript]<br>
+Part 1 (https://www.youtube.com/watch?v=GiWJQOin5dk)<br>
+Part 2 (https://www.youtube.com/watch?v=USmwEDVM2Qc)" by [].
 ## Usages
 
  - Browse through the available restaurants or search for your favorite one.
