@@ -1,3 +1,4 @@
+import {foodItem} from './fooditem.js'
 const displayItems = document.querySelectorAll('displayItems') 
 
 
