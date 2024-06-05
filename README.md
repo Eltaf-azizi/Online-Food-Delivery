@@ -22,7 +22,7 @@ Part 2 (https://www.youtube.com/watch?v=USmwEDVM2Qc)" by [WEB HUB].
 
 ## Contributing
 
-Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
+Contributions are what make the open-source community such an amazing place to learn, inspire, and create. I would greatly appreciate any contributions you make.
 
  - Fork the Project
  - Create your Feature Branch (git checkout -b feature/AmazingFeature)
